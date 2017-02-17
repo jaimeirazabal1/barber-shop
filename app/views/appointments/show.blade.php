@@ -1,0 +1,1 @@
+/home/vagrant/proyectos/apptitud/barberia.app/app/views/appointments/show.blade.php

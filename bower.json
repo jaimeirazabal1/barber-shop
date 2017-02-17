@@ -1,0 +1,28 @@
+{
+  "name": "barberia.app",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "install": {
+    "path": "public/vendors"
+  },
+  "dependencies": {
+    "animate.css": "~3.4.0",
+    "backbone": "~1.2.2",
+    "blockui": "*",
+    "flipclock": "~0.7.7",
+    "handlebars": "~3.0.3",
+    "intl-tel-input": "~6.0.7",
+    "moment": "~2.10.6",
+    "noty": "~2.3.5",
+    "typeahead.js": "~0.11.1",
+    "ubilabs-geocomplete": "~1.6.5"
+  }
+}

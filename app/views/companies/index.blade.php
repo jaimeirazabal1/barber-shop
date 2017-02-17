@@ -1,0 +1,1 @@
+/home/vagrant/proyectos/apptitud/barberiaapp.app/app/views/companies/index.blade.php
